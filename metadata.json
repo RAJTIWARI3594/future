@@ -1,0 +1,6 @@
+{
+  "name": "NextHire AI",
+  "description": "AI-powered career platform for college students (BCA, B.Tech, BBA, MBA) with AI Mentor, ATS Resume Checker, Coding Practice, Roadmaps, Jobs & Admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
